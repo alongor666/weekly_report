@@ -1,0 +1,172 @@
+{
+  "as_of_week": 44,
+  "data_source": "2025保单第44周变动成本明细表.csv",
+  "kpis": {
+    "signed_premium": 361397281.21,
+    "claim_rate": null,
+    "expense_rate": 16.215204516750585,
+    "marginal_contribution_rate": null
+  },
+  "org_metrics": [
+    {
+      "third_level_organization": "乐山",
+      "signed_premium_sum": 9881383.49,
+      "maturity_premium_sum": null,
+      "reported_claim_sum": 1932311.36,
+      "expense_amount_sum": 2085099.6274984672,
+      "claim_rate": null,
+      "expense_rate": 0.21101292441575578,
+      "marginal_contribution_rate": NaN,
+      "premium_plan_yuan": NaN,
+      "premium_progress_vs_time": null
+    },
+    {
+      "third_level_organization": "天府",
+      "signed_premium_sum": 151620291.14,
+      "maturity_premium_sum": null,
+      "reported_claim_sum": 48006713.56,
+      "expense_amount_sum": 25944999.79,
+      "claim_rate": null,
+      "expense_rate": 0.17111825597303099,
+      "marginal_contribution_rate": NaN,
+      "premium_plan_yuan": NaN,
+      "premium_progress_vs_time": null
+    },
+    {
+      "third_level_organization": "宜宾",
+      "signed_premium_sum": 24597039.689999968,
+      "maturity_premium_sum": null,
+      "reported_claim_sum": 9257292.41,
+      "expense_amount_sum": 2622573.577900068,
+      "claim_rate": null,
+      "expense_rate": 0.10662151262724053,
+      "marginal_contribution_rate": NaN,
+      "premium_plan_yuan": NaN,
+      "premium_progress_vs_time": null
+    },
+    {
+      "third_level_organization": "德阳",
+      "signed_premium_sum": 9531081.3,
+      "maturity_premium_sum": null,
+      "reported_claim_sum": 2453370.4,
+      "expense_amount_sum": 1531251.4,
+      "claim_rate": null,
+      "expense_rate": 0.16065872819697802,
+      "marginal_contribution_rate": NaN,
+      "premium_plan_yuan": NaN,
+      "premium_progress_vs_time": null
+    },
+    {
+      "third_level_organization": "新都",
+      "signed_premium_sum": 34653362.75,
+      "maturity_premium_sum": null,
+      "reported_claim_sum": 11420379.68,
+      "expense_amount_sum": 6477125.45,
+      "claim_rate": null,
+      "expense_rate": 0.18691188779363124,
+      "marginal_contribution_rate": NaN,
+      "premium_plan_yuan": NaN,
+      "premium_progress_vs_time": null
+    },
+    {
+      "third_level_organization": "本部",
+      "signed_premium_sum": 21443.7,
+      "maturity_premium_sum": null,
+      "reported_claim_sum": 10800.04,
+      "expense_amount_sum": 1318.9399999999998,
+      "claim_rate": null,
+      "expense_rate": 0.06150710931415753,
+      "marginal_contribution_rate": NaN,
+      "premium_plan_yuan": NaN,
+      "premium_progress_vs_time": null
+    },
+    {
+      "third_level_organization": "武侯",
+      "signed_premium_sum": 14352383.66,
+      "maturity_premium_sum": null,
+      "reported_claim_sum": 3698018.7399999998,
+      "expense_amount_sum": 2820274.789000238,
+      "claim_rate": null,
+      "expense_rate": 0.1965021877766775,
+      "marginal_contribution_rate": NaN,
+      "premium_plan_yuan": NaN,
+      "premium_progress_vs_time": null
+    },
+    {
+      "third_level_organization": "泸州",
+      "signed_premium_sum": 10707240.759999996,
+      "maturity_premium_sum": null,
+      "reported_claim_sum": 4044972.98,
+      "expense_amount_sum": 1415702.624926196,
+      "claim_rate": null,
+      "expense_rate": 0.1322191829490716,
+      "marginal_contribution_rate": NaN,
+      "premium_plan_yuan": NaN,
+      "premium_progress_vs_time": null
+    },
+    {
+      "third_level_organization": "自贡",
+      "signed_premium_sum": 6785707.189999993,
+      "maturity_premium_sum": null,
+      "reported_claim_sum": 1349292.1,
+      "expense_amount_sum": 744349.6411022309,
+      "claim_rate": null,
+      "expense_rate": 0.10969374602534708,
+      "marginal_contribution_rate": NaN,
+      "premium_plan_yuan": NaN,
+      "premium_progress_vs_time": null
+    },
+    {
+      "third_level_organization": "资阳",
+      "signed_premium_sum": 7779956.300000001,
+      "maturity_premium_sum": null,
+      "reported_claim_sum": 1960408.57,
+      "expense_amount_sum": 1294725.5,
+      "claim_rate": null,
+      "expense_rate": 0.1664180941479067,
+      "marginal_contribution_rate": NaN,
+      "premium_plan_yuan": NaN,
+      "premium_progress_vs_time": null
+    },
+    {
+      "third_level_organization": "达州",
+      "signed_premium_sum": 3349301.4899999998,
+      "maturity_premium_sum": null,
+      "reported_claim_sum": 961910.4199999999,
+      "expense_amount_sum": 415912.0155007784,
+      "claim_rate": null,
+      "expense_rate": 0.12417873301121614,
+      "marginal_contribution_rate": NaN,
+      "premium_plan_yuan": NaN,
+      "premium_progress_vs_time": null
+    },
+    {
+      "third_level_organization": "青羊",
+      "signed_premium_sum": 35551590.38,
+      "maturity_premium_sum": null,
+      "reported_claim_sum": 12081641.25,
+      "expense_amount_sum": 3958688.538748881,
+      "claim_rate": null,
+      "expense_rate": 0.11135053302639004,
+      "marginal_contribution_rate": NaN,
+      "premium_plan_yuan": NaN,
+      "premium_progress_vs_time": null
+    },
+    {
+      "third_level_organization": "高新",
+      "signed_premium_sum": 52566499.36,
+      "maturity_premium_sum": null,
+      "reported_claim_sum": 16635062.06,
+      "expense_amount_sum": 9289286.371500872,
+      "claim_rate": null,
+      "expense_rate": 0.1767149512445843,
+      "marginal_contribution_rate": NaN,
+      "premium_plan_yuan": NaN,
+      "premium_progress_vs_time": null
+    }
+  ],
+  "time_progress_denominator": {
+    "elapsed_days": 307,
+    "year_days": 365
+  }
+}
